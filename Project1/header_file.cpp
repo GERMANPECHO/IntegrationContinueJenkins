@@ -10,6 +10,8 @@ void function() {
 	int c = 5;
 
 	int multiplication = a * b * c;
+
+	cout << "here is the multiplication of three numbers" << multiplication; 
 }
 
 int main() {
